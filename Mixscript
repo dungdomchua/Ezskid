@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/dungdomchua/Ezskid/refs/heads/main/Mixscripthttps://raw.githubusercontent.com/dungdomchua/Ezskid/refs/heads/main/Mixscript'))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/dungdomchua/Ezskid/refs/heads/main/Mixscript'))()
 
 local Window = OrionLib:MakeWindow({Name = "dungx skidder bad", HidePremium = false, SaveConfig = true, ConfigFolder = "dxl_bf"})
 
