@@ -1,14 +1,14 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/dungdomchua/Ezskid/refs/heads/main/Mixscript'))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/vinh12eqweaws/zingmods/refs/heads/main/zingpro')))()
 
 local Window = OrionLib:MakeWindow({Name = "dungx skidder bad", HidePremium = false, SaveConfig = true, ConfigFolder = "dxl_bf"})
 
 local Tab = Window:MakeTab({
-	Name = "Scripts cần key",
+	Name = "Scripts cáº§n key",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
 local Tab2 = Window:MakeTab({
-	Name = "Script của thx skidder",
+	Name = "Script cá»§a thx skidder",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
@@ -19,7 +19,7 @@ local Tab3 = Window:MakeTab({
 })
 
 local Tab4 = Window:MakeTab({
-	Name = "hỗ trợ",
+	Name = "há»— trá»£",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
@@ -51,7 +51,7 @@ end
 
 
 Tab4:AddButton({
-	Name = "tìm fruit",
+	Name = "tĂ¬m fruit",
 	Callback = function()
         repeat wait(5) until game:IsLoaded()
         loadstring(game:HttpGet('https://raw.githubusercontent.com/AdminusGames/Blox_Fruits_Sniper/main/.lua'))()
@@ -83,7 +83,7 @@ end
 })
 
 Tab3:AddButton({
-	Name = "bàn phím",
+	Name = "bĂ n phĂ­m",
 	Callback = function()
         repeat wait(5) until game:IsLoaded()
      loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
@@ -110,7 +110,7 @@ Tab:AddButton({
 })
 
 Tab5:AddButton({
-	Name = "farm rương op",
+	Name = "farm rÆ°Æ¡ng op",
 	Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/NickelHUBB/SonicTuru/main/ChestFarmOp"))()
 end    
@@ -153,5 +153,5 @@ Tab5:AddButton({
 	Callback = function()						repeat wait(5) until game:IsLoaded()			    loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenhubtop/zen_hub_pr/main/zennewwwwui.lua", true))()				Tab5:AddButton({
 	Name = "ronix",
 	Callback = function()						repeat wait(5) until game:IsLoaded()			    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/513ccdb3ae8a61d4d7698fc337e5256d.lua"))()					Tab5:AddButton({
-	Name = "kncrypt đc skid key",
+	Name = "kncrypt Ä‘c skid key",
 	Callback = function()						repeat wait(5) until game:IsLoaded()		loadstring(game:HttpGet("https://raw.githubusercontent.com/dungdomchua/Script-skid/refs/heads/main/BloxFruit.lua.txt"))()
